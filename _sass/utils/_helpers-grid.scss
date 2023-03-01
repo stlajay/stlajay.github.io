@@ -1,0 +1,64 @@
+//-------------------------------------------- 
+// Sections
+//--------------------------------------------
+section {
+  position: relative;
+}
+
+.section-padding {
+  padding: 2em 1em;
+
+  @media (min-width: $mq-small) {
+    padding: 3em 2em;
+  }
+
+  @media (min-width: $mq-med) {
+    padding: {
+      right: 1em;
+      left: 1em;
+    }
+  }
+
+  @media (min-width: $mq-xlarge) {
+    padding: {
+      top: 4em;
+      bottom: 4em;
+    }
+  }
+}
+
+.section-padding--double {
+  padding: 4em 1em;
+
+  @media (min-width: $mq-small) {
+    padding: 6em 2em;
+  }
+
+  @media (min-width: $mq-med) {
+    padding: {
+      right: 1em;
+      left: 1em;
+    }
+  }
+
+  @media (min-width: $mq-xlarge) {
+    padding: {
+      top: 8em;
+      bottom: 8em;
+    }
+  }
+}
+
+.section-padding--half {
+  padding: 1em;
+
+  @media (min-width: $mq-small) {
+    padding: 1.5em 2em;
+  }
+
+  @media (min-width: $mq-med) {
+    padding: {
+      right: 1em;
+      left: 1em;
+    }
+  }
