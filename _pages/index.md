@@ -130,16 +130,16 @@ body {
 </style>
 </head>
 <body>
-<section id="#" class="cont" style="wdith:100%; background-color: #FFAC1C; height:600px">
+<section id="#" class="cont" style="width:100%; background-color: #FFAC1C; height:600px">
   <div class="grid-xlarge">
   <div style="display: flex">
       <!-- <section style="margin-left:70px; margin-right:10px"><img style="width:400px;" 
       src="assets/images/logo/22.png" />
       </section> -->
-      <section class="center" style="margin-left:90px; "><img style="width:400px;" 
-      src="assets/images/logo/profile.gif"> <!-- PROFILE IMAGE -->
+      <section class="center" style="margin-left:90px;">
+        <img style="width:60%;" src="assets/images/logo/profile.gif"> <!-- PROFILE IMAGE -->
       </section>
-      <section class="cta__text" style="margin-right:0px; margin-top:20px; font-size:70px; font-family:Apercu">
+      <section class="cta__text" style="margin-right:0px; margin-top:20px; text-justify: auto; font-size:70px; font-family:Apercu">
       <span>Hi, I am Ajay Deshmukh.</span> <br>
       <span>A <span style="color: ghostwhite;">C</span>reator,</span><br>
       <span><span style="color: ghostwhite;"> E</span>ngineer,</span><br>
@@ -147,7 +147,7 @@ body {
       </section>
   </div>
   </div>
-</section>
+</section> 
 
 <!---------- RESUME ---------->
 <div class="grid-xlarge">
