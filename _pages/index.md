@@ -25,7 +25,7 @@ body {
 /************ EXPERIENCE ************/
 .experience {
   background-color: palegreen;
-  border-radius: 0 100px 0 0;
+  border-radius: 0 100px 0 100px;
   margin: 0;
   padding: 0 0 0 0;
 }
@@ -61,7 +61,7 @@ hr.skill-tag:hover, after {
   content: 'Skills';
   display: block;
   border-color: darkslateblue;
-  border-bottom: 10px solid darkslateblue;
+  border-bottom: solid darkslateblue;
 }
 hr.hr1:hover, after{max-width: 90%;}
 hr.hr2:hover, after{max-width: 70%;}
@@ -145,7 +145,7 @@ hr.hr4:hover, after{max-width: 85%;}
 
 
 <!--------------------- MAIN Skills ---------------->
-<section class="skills" style="background-color:antiquewhite;">
+<section class="skills" style="background-color:antiquewhite; border-radius: 0 100px 0 0;">
   <div class="wrap-around content-wrap ">
     <h1>SKILLS</h1>
     <div class="skills-item">
