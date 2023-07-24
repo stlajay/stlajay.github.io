@@ -30,7 +30,7 @@ I learned new language called [Kusto Query Language][kql] in the first hour via 
 
 `SECOND ROUND`
 
-The presentation round takes-off and present it as a team presentation (Each one of us don't know about ather attendees, just random selection). But actually, I did pretty well done this time :)
+The presentation round takes-off and present it as a team presentation (Each one of us don't know about other attendees, just random selection). But actually, I did pretty well done this time :)
 
 And this :-
 

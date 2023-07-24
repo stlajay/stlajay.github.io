@@ -97,9 +97,9 @@ hr.hr4:hover, after{max-width: 85%;}
   <br>
   <section class="cta__text" id="#name_section" style="font-size: 6cap; font-family: Apercu; padding-top: 50px;">
     <span>Hi, I am Ajay Deshmukh.</span> <br>
-      <span>A <span style="color: ghostwhite;">C</span>reator,</span> <br>
-      <span><span style="color: ghostwhite;">&nbsp;&nbsp;E</span>ngineer,</span> <br> 
-      and <span style="color: ghostwhite;">E</span>ntrepreneur.
+      <span>A <span style="color: ghostwhite;">E</span>ngineer,</span> <br>
+      <span><span style="color: ghostwhite;">&nbsp;&nbsp;R</span>esearch,</span> <br> 
+      and <span style="color: ghostwhite;">T</span>ech-Savvy.
   </section>
 </div>
 </section>
@@ -162,7 +162,7 @@ hr.hr4:hover, after{max-width: 85%;}
     </div>
     <div class="skills-item">
       <h3 class="skill-title"><strong>Leadership and Management</strong></h3> <hr title="85%" class="skill-tag hr4">
-      <p class="skill-text">Creative Problem-solving,Product Management, Time Management, Corporation</p>
+      <p class="skill-text">Creative Problem-solving, Product Management, Time Management, Corporation</p>
     </div>
   </div>
 </section>
@@ -181,7 +181,7 @@ hr.hr4:hover, after{max-width: 85%;}
         <h3>Golden Kids Junior College - <i>Amravati, IN</i></h3>
         <p>Higher Secondary Certification, 2016-2017</p>
     </section>
-  <h2>Certification</h2>
+  <h1>CERTIFICATION</h1>
     <section class="education-wrap">
         <h3>Google IT Support Professional Certification - <i>Google</i></h3>
         <p>Coursera: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/HY4J8BN8GV7J" target="_blank">Link</a>, 2020</p>
