@@ -46,13 +46,13 @@ VERIFY: [LINK][armyhackathon]
 
 
 
-See my top three skills (but not technical): [CLICK HERE][plumtoptalent]
+See my top three skills (this is not technical): [CLICK HERE][plumtoptalent]
 
 <p style="color: red;"><b>ALERT: I'm actively looking for new opportunity. </b></p>
 
 `Email`: ajaydeshmukh@email.com
 
-[armyhackathon]: https://1drv.ms/b/s!AirxltccSsTDeEZ_DfenSjUXsp4?e=aatBGV
-[futureready]: https://onedrive.live.com/?authkey=%21AAsAiDjg8Yfxvw4&id=C3C44A1CD796F12A%21122&cid=C3C44A1CD796F12A&parId=root&parQt=sharedby&o=OneUp
-[isp20]: https://onedrive.live.com/?authkey=%21ANQwwpqoFnmzoiE&id=C3C44A1CD796F12A%21121&cid=C3C44A1CD796F12A&parId=root&parQt=sharedby&o=OneUp
+[armyhackathon]: https://1drv.ms/b/s!AirxltccSsTDeIHCWt9SgZTDVQ0?e=YRZHUl
+[futureready]: https://1drv.ms/b/s!AirxltccSsTDei8b3Q1CFAeEv0Y?e=ExbV10
+[isp20]: https://1drv.ms/b/s!AirxltccSsTDeSEXQS7Fy6bXvvY?e=UYelt5
 [plumtoptalent]: https://secure.plum.io/en/p/hT2oSkpsjcMCPPUMBiN2Ow

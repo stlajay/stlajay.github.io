@@ -107,8 +107,9 @@ hr.hr4:hover, after{max-width: 85%;}
 <section class="experience">
 <div class="wrap-around item-details divider" style="font-family: Apercu;">
  <h1>EXPERIENCE</h1>
- <p>See my complete work history on <a href="https://www.linkedin.com/in/stlajay/">LinkedIn</a>.</p>
+ <p>See my complete profile on <a href="https://www.linkedin.com/in/stlajay/">LinkedIn</a>.</p>
  <!-- Job 1 -->
+ <!-- Job 2 -->
  <section class="job-item">
     <div class="job-details">
         <h3>SISTMR Australia</h3>
@@ -124,7 +125,7 @@ hr.hr4:hover, after{max-width: 85%;}
         </ul>
      </div>
  </section>
- <!-- Job 2 -->
+ <!-- Job 3 -->
  <section class="job-item">
     <div class="job-details">
         <h3>Microsoft Future Ready</h3>
@@ -132,11 +133,12 @@ hr.hr4:hover, after{max-width: 85%;}
         <p>September 2021 – December 2021</p>
     </div>
     <div class="job-summary">
-        <p>Top 1000+ <a href="#">performer</a> in Microsoft Azure project development</p>
+        <p>Top 1000+ <a href="https://1drv.ms/b/s!AirxltccSsTDei8b3Q1CFAeEv0Y?e=ExbV10">performer</a> in Microsoft Azure project development</p>
         <p>Key contributions:</p>
         <ul class="job_list">
         <li>Utilized the <b>18+</b> laboratory <b>cloud computing</b> practise from the <a href="https://learn.microsoft.com/en-us/training/">Microsoft Learn</a> documentation.</li>
-        <li>Deployed the prototype on <a href="https://azure.microsoft.com/en-in/products/app-service/web/">Microsoft Azure</a> with <b>cloud storage</b> using the web app on a container.</li>
+        <li>Created the machine learning model for the offesive data using text analysis</li>
+        <li>Deployed the prototype on <a href="https://azure.microsoft.com/en-in/products/app-service/web/">Microsoft Azure</a> with <b>cloud storage</b> using the static-web app on a container.</li>
         </ul>
     </div>
  </section>
@@ -177,10 +179,7 @@ hr.hr4:hover, after{max-width: 85%;}
       <p>Bachelors of Technology, Information Technology, 2018-2022</p>
       <p><b>Coursework</b>: Algorithms, Databases, Computer Networking, Machine Learning, Cryptography</p>
   </section>
-    <section class="education-wrap">
-        <h3>Golden Kids Junior College - <i>Amravati, IN</i></h3>
-        <p>Higher Secondary Certification, 2016-2017</p>
-    </section>
+    
   <h1>CERTIFICATION</h1>
     <section class="education-wrap">
         <h3>Google IT Support Professional Certification - <i>Google</i></h3>
@@ -194,12 +193,12 @@ hr.hr4:hover, after{max-width: 85%;}
 </section>
 
 
-<!--------------------- MAIN PROJECTS & BLOG ---------------->
+<!--------------------- MAIN ARCHIVES & BLOG ---------------->
 <section id="projects" style="width=100%; background-color: whitesmoke">
 <div class="posts">
   <div class="wrap-around">
     <h2 class="post_title">
-      <span>SELECTED PROJECTS</span>
+      <span style="font-family: Apercu, Tahoma, cursive, sans-serif, -apple-system, Ubuntu, monospace;">SELECTED ARCHIVES</span>
     </h2>
 
     <div class="posts__container" data-columns>
