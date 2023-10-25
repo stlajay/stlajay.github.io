@@ -112,8 +112,25 @@ hr.hr4:hover, after{max-width: 85%;}
  <!-- Job 2 -->
  <section class="job-item">
     <div class="job-details">
+        <h3>GitHub’s All-In Open Source</h3>
+        <h4><i>Open Source Software Contributor</i></h4>
+        <p>January 2023 - April 2023</p>
+    </div>
+    <div class="job-summary">
+        <p><b>Look at the Graduation Record : </b> <code>AllInOpenSource/All-In-For-Students-Graduation-2023/<a href="https://github.com/AllInOpenSource/All-In-For-Students-Graduation-2023" target="_blank">README.MD</a> </code></p>
+        <p>Key contributions:</p>
+        <ul class="job_list">
+        <li>Developed digital presence to reach the community support by making contributions to the <b>GitHub</b> ecosystem</li>
+        <li>Technical communication with peers regarding ways to maximize potential for open sourcing <b>inclusion</b> and <b>diversity</b>.</li>
+        </ul>
+    </div>
+ </section>
+ <!-- Job 3 -->
+ <section class="job-item">
+    <div class="job-details">
         <h3>SISTMR Australia</h3>
-        <i>Research Intern</i>
+        <p>(Society for Innovation in Scientific, Technological and Medical Research)</p>
+        <h4><i>Research Intern</i></h4>
         <p>January 2022 – May 2022</p>
     </div>
     <div class="job-summary">
@@ -125,7 +142,7 @@ hr.hr4:hover, after{max-width: 85%;}
         </ul>
      </div>
  </section>
- <!-- Job 3 -->
+ <!-- Job 4 
  <section class="job-item">
     <div class="job-details">
         <h3>Microsoft Future Ready</h3>
@@ -141,7 +158,7 @@ hr.hr4:hover, after{max-width: 85%;}
         <li>Deployed the prototype on <a href="https://azure.microsoft.com/en-in/products/app-service/web/">Microsoft Azure</a> with <b>cloud storage</b> using the static-web app on a container.</li>
         </ul>
     </div>
- </section>
+ </section>-->
 </div>
 </section>
 

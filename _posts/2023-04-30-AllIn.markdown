@@ -20,9 +20,17 @@ You may be familiar with the term **open source**, but it is really significant 
   <img source type="image/png/jpg" src="{{ "assets/images/allin/foss.png" | relative_url }}">
 </div>
 
-I began learning something new, such as **open stack**, community interaction and building new ones or contributing to current software or hardware, working in a team on specific projects (like **hackathons** or challenges), and much more.
+I began learning something new : 
 
-Particpating in [All-In hackathon][allinhack] event. We work with others as a team, developing idea in just 24 hours and contributing to [Map API][maproject] project. Moreover, we also played on other challenges.
+- such as **open stack**,
+- following open source **guide** rules,
+- community interaction and building new ones or contributing to current software or hardware
+- contributions to the **technical documentation**, 
+- learn more about the research and analysis in the community project,
+- and working in a team on specific projects (like **hackathons** or challenges), and much more.
+
+
+I'd invited to participate in [All-In hackathon][allinhack] community event. We work with others as a team, developing idea in just 24 hours and contributing to [Map API][maproject] project. Moreover, we also played on other challenges.
 
 This all-encompassing learning experience is provided by [GitHub][github]'s [All-In Open Source][allinopensource].
 
