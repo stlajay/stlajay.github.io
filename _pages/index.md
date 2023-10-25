@@ -199,11 +199,13 @@ hr.hr4:hover, after{max-width: 85%;}
     
   <h1>CERTIFICATION</h1>
     <section class="education-wrap">
-        <h3>Google IT Support Professional Certification - <i>Google</i></h3>
+        <h3>Google IT Support Professional Certification</h3>
+         <i>Google, Mountain View, California.</i>
         <p>Coursera: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/HY4J8BN8GV7J" target="_blank">Link</a>, 2020</p>
     </section>
   <section class="education-wrap">
-        <h3>Python for Everybody - <i>University of Michigan</i></h3>
+        <h3>Python for Everybody</h3>
+         <i>University of Michigan, 500 S. State Street, Ann Arbor, MI 48109 USA</i>
         <p>Coursera: <a href="https://www.coursera.org/account/accomplishments/certificate/VHU6AJ3WUKQK" target="_blank">Link</a>, 2020</p>
     </section>
 </div>
