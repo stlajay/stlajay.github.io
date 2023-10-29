@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Microsoft Hackathon"
-date:   2023-02-28 
+date:   2023-03-03 
 categories: jekyll update
 image: assets/images/kc7/kc7.png
 highlight: 10
