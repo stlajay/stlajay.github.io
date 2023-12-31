@@ -98,7 +98,7 @@ hr.hr4:hover, after{max-width: 85%;}
   <section class="cta__text" id="#name_section" style="font-size: 6cap; font-family: Apercu; padding-top: 50px;">
     <span>Hi, I am Ajay Deshmukh.</span> <br>
       <span>A <span style="color: ghostwhite;">E</span>ngineer,</span> <br>
-      <span><span style="color: ghostwhite;">&nbsp;&nbsp;R</span>esearch,</span> <br> 
+      <span><span style="color: ghostwhite;">&nbsp;&nbsp;R</span>esearch enthusiast,</span> <br> 
       and <span style="color: ghostwhite;">T</span>ech-Savvy.
   </section>
 </div>
@@ -113,7 +113,7 @@ hr.hr4:hover, after{max-width: 85%;}
  <section class="job-item">
     <div class="job-details">
         <h3>GitHub’s All-In Open Source</h3>
-        <h4><i>Open Source Software Contributor</i></h4>
+        <h4><i>Open Source Software Fellow</i></h4>
         <p>January 2023 - April 2023</p>
     </div>
     <div class="job-summary">
@@ -136,7 +136,7 @@ hr.hr4:hover, after{max-width: 85%;}
     <div class="job-summary">
         <p>Key contributions:</p>
         <ul class="job_list">
-            <li>Worked on brute force, sniffer tools, code analysis and <b>exploitation development</b> tasks.</li>
+            <li>Demonstrated on brute force, sniffer tools, code analysis and <b>exploitation development</b> tasks.</li>
             <li>Tested <b>vulnerabilities</b> in the network and website applications with <b>84%</b> accuracy using open source tools.</li>
             <li>Examined the 4+ complex software applications operating on the <b>virtual machine</b>.</li>
         </ul>
