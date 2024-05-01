@@ -1,9 +1,10 @@
-.sass-cache 
+_site
+
+.sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 
-_site
 .env
 .s3.website.json
-node_module/
+node_module/ 

@@ -13,7 +13,7 @@ Locking Gem file
 ```bundle exec jekyll serve```
 
 
-Open Gem file, 
+Open Configuration file, 
 By adding in config.yml
 ```incremental: true```
 

@@ -97,8 +97,7 @@ hr.hr4:hover, after{max-width: 85%;}
   <br>
   <section class="cta__text" id="#name_section" style="font-size: 6cap; font-family: Apercu; padding-top: 50px;">
     <span>Hi, I am Ajay Deshmukh.</span> <br>
-      <span>A <span style="color: ghostwhite;">E</span>ngineer,</span> <br>
-      <span><span style="color: ghostwhite;">&nbsp;&nbsp;R</span>esearch enthusiast,</span> <br> 
+      <span>A<span style="color: ghostwhite;">&nbsp;&nbsp;R</span>esearch enthusiast,</span> <br> 
       and <span style="color: ghostwhite;">T</span>ech-Savvy.
   </section>
 </div>

@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
 name: Ajay Deshmukh
 title: Ajay Deshmukh
 email: ajaydeshmukhr@gmail.com
@@ -62,7 +63,7 @@ incremental: true
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
+
 exclude:
   - Gemfile
   - Gemfile.lock
