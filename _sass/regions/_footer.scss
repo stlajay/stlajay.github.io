@@ -1,0 +1,126 @@
+//----------------------------------------------
+// Footer
+//----------------------------------------------
+.footer {
+  color: $color-white;
+  background-color: $color-black;
+  border-top: $border;
+
+  &__container {
+    margin-top: 5em;
+  }
+
+  &__tags {
+    @extend %flex-center;
+    @extend %no-list-style;
+    padding-top: 2em;
+    flex-wrap: wrap;
+
+    & > * {
+      margin-bottom: 2em;
+
+      &:not(:last-child) {
+        margin-right: 1em;
+      }
+    }
+  }
+
+  &__link {
+    font-size: $font-small;
+    color: $color-black;
+    transition: color 200ms ease-in-out;
+
+    &:hover,
+    &:active,
+    &:focus {
+      color: $color-grey;
+    }
+  }
+
+  &__social {
+    @extend %flex-center;
+    @extend %no-list-style;
+
+    & > *:not(:last-child) {
+      margin-right: 0.75em;
+    }
+
+    a {
+      font-size: 1.25em;
+      color: $color-white;
+    }
+  }
+}
+
+//----------------------------------------------
+// Flex based sticky footer
+//----------------------------------------------
+// body {
+//   display: flex;
+//   flex-direction: column;
+//   min-height: 100vh;
+// }
+
+main {
+  position: relative;
+  // z-index: $z-1;
+
+  // flex-grow: 1;
+  margin-top: $header-height;
+}
+
+//----------------------------------------------
+// Footer
+//----------------------------------------------
+.foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1em;
+
+  font-weight: 500;
+
+  @media (min-width: $mq-small) {
+    padding: 2em;
+  }
+
+  @media (min-width: $mq-med) {
+    padding: 3em 4em;
+  }
+
+  .contact & {
+
+    @media (min-width: $mq-med) {
+      position: absolute;
+      left: 4em;
+      bottom: 3em;
+      right: 4em;
+      z-index: $z-1;
+
+      padding: 0;
+    }
+  }
+
+  &__list {
+    @extend %no-list-style;
+
+    display: flex;
+
+    & > li:not(:last-child) {
+      margin-right: 1em;
+
+      @media (min-width: $mq-small) {
+        margin-right: 1.25em;
+      }
+    }
+  }
+
+  &__copy,
+  &__link {
+    font-size: 1.1em;
+  }
+
+  &__link {
+    @include link-underline(2px, var(--black));
+  }
+}

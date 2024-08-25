@@ -1,0 +1,10 @@
+_site
+
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+.env
+.s3.website.json
+node_module/ 

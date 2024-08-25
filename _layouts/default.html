@@ -1,0 +1,26 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en">
+<style type="text/css">html { scroll-behavior: smooth; }</style>
+<head>
+
+  {% include head.html %}
+
+</head>
+<body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout">
+  
+  {% include header.html %}
+
+  <main class="💈">
+
+    {{ content }}
+    
+  </main>
+
+  {% include footer.html %}
+
+</body>
+
+</html>
