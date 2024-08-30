@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Microsoft Hackathon"
+date:   2024-02-16 
+categories: jekyll update
+image: assets/images/kc7/kc7.png
+highlight: 10
+author: Ajay Deshmukh
+tags:
+  - Cybersecurity
+--- 
+
+### POST 1st: 2023-03-03
+
+You’ll find this POST that **Microsoft Employees** from the TEAM of *Threat Intelligence* hosted 7 hours KC7 Hackathon.  I take part in.
+
+`FIRST ROUND`:
+I learned new language called [Kusto Query Language][kql] in the first hour via getting out data to find threats in the Database.
+
+<div class="section padding" align="center">
+	<img source type="image/png/jpg" src="{{ "assets/images/kc7/data.jpg" | relative_url }}">
+</div>
+
+`SCOREBOARD GENERAL`
+
+<div class="section padding" align="center">
+	<img source type="image/png/jpg" src="{{ "assets/images/kc7/scoreboard.jpg" | relative_url }}">
+</div>
+
+**Fun Fact** : ***Host everything kept as a secret until the Hackathon starts and before as well.***
+
+
+`SECOND ROUND`
+
+The presentation round takes-off and present it as a team presentation (Each one of us don't know about other attendees, just random selection). But actually, I did pretty well done this time :)
+
+And this :-
+
+`WINNNER` : 3rd (Got 500 $ as a Credit)
+
+VERIFY: [BADGE][kcbadge]
+
+
+### POST 2nd: 2024-02-16
+
+**Threat Insider: Sensitive data**
+
+`FIRST ROUND`: 
+Team building and in first half an hour and figuring out, researching the solution of threat intelligence.
+
+<div class="section padding" align="center">
+	<img source type="image/png/jpg" src="{{ "assets/images/kc7/threat_insider.jpg" | relative_url }}">
+</div>
+
+`RANKBOARD`:
+Six hours challenge result.
+
+**USERNAME: jay7**
+
+**RANK: 9th** 
+<div class="section padding" align="center">
+	<img source type="image/png/jpg" src="{{ "assets/images/kc7/score_insider.jpg" | relative_url }}">
+</div>
+
+
+[kql]: https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
+[kcbadge]: https://badgr.com/public/assertions/ACIz-OD3TjKl2GMEcWeRoA

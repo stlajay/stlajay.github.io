@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "GitHub All-In"
+date:   2023-04-30
+categories: jekyll update
+image: assets/images/gitallin/gitallin.png
+highlight: 10
+author: Ajay Deshmukh
+tags:
+  - Open Source
+--- 
+
+I'm getting familiar with the term **open source** during 3rd year of engineering, and it is really significant and means a great deal to any computer science enthusiast.
+
+The **[FOSS][foss]** (`Free and Open Source Software`) 
+
+
+In the **All In Open Source**, I experience something new within the four month of timeline, likely to be : 
+
+- **open stack development**,
+- following open source **guide** rules,
+- community interaction and building new ones, with contributing to current software or hardware
+- contributions to the **technical documentation**, 
+- learn more about the research and analysis in the community project,
+- and working in a team on specific projects (like **hackathons** or challenges), and much more.
+
+
+<div class="section padding" align="center">
+  <img source type="image/png/jpg" src="{{ "assets/images/gitallin/gitallin.jpg" | relative_url }}">
+</div>
+
+I'd invited to participate in [All-In hackathon][allinhack] community event. I work with others as a team, developing idea in just 24 hours and contributing to [Map API][maproject] project. Moreover, we also played important role on other challenges.
+
+This all-encompassing learning experience is provided by [GitHub][github]'s [All-In Open Source][allinopensource].
+
+
+`Fun Fact` : I recieved my graduation certificate from **University** and [All-In][allingraduate] in the same month, ***April 2023***.
+
+VERIFY: [LINK][allingrad]
+
+CERTIFICATE: [LINK][allingraduate]
+
+[allingrad]: https://github.com/AllInOpenSource/All-In-For-Students-Graduation-2023
+[allingraduate]: https://1drv.ms/i/s!AjnDsL7q8UJechVZR5ahyLyycX8?e=mIe0kM
+[github]: https://github.blog/2022-11-01-all-in-for-students-expanding-the-next-generation-of-open-source-leaders/
+[allinopensource]: https://allinopensource.org/
+[foss]: https://en.unesco.org/freeandopensourcesoftware
+[allinhack]: https://organize.mlh.io/participants/events/8989-airhacks?_gl=1*133afd1*_ga*MjMwMDE2MzE0LjE2ODkwNzcwNDM.*_ga_E5KT6TC4TK*MTY4OTA3NzA0Mi4xLjAuMTY4OTA3NzA0Mi42MC4wLjA.
+[maproject]: https://github.com/seohyeon-lee-2025/mlh-allin-hack-2023

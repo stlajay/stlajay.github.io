@@ -38,6 +38,13 @@ body {
 .job-summary {
   padding: 0 0 0px 16px;
 }
+.experience-record {
+  background-color: whitesmoke;
+  padding: 4px;
+  color: black;
+}
+.experience-record-link {
+  color: red;
 }
 /************ SKILLS ************/
 .skills-item {
@@ -84,14 +91,6 @@ hr.hr4:hover, after{max-width: 85%;}
 .education-wrap {
   padding: 16px 0 16px 0;
 }
-.education-record {
-  background-color: whitesmoke;
-  padding: 4px;
-  color: black;
-}
-.education-record-link {
-  color: red;
-}
 @media screen and (max-width: 720px) {
   html {
     scroll-behavior: smooth;
@@ -115,6 +114,148 @@ hr.hr4:hover, after{max-width: 85%;}
   </section>
 </div>
 </section>
- 
+<!--------------------- MAIN EXPERIENCE ---------------------->
+<section class="experience">
+<div class="wrap-around item-details divider" style="font-family: Apercu;">
+ <h1>EXPERIENCE</h1>
+ <p>See my complete profile on <a href="https://www.linkedin.com/in/stlajay/">LinkedIn</a>.</p>
+ <!-- Job 1 -->
+  <section class="job-item">
+    <div class="job-details">
+        <h3>GitHub</h3>
+        <p>(GitHub's All In Open Source)</p>
+        <h4><i>Software Fellow</i></h4>
+        <p>January 2023 – April 2023</p>
+    </div>
+    <div class="job-summary">
+      <p>Look at Graduation Record: <b class="experience-record">AllInOpenSource/All-In-For-Students-Graduation-2023/<a href="https://github.com/AllInOpenSource/All-In-For-Students-Graduation-2023" target="_blank" class="experience-record-link">README.md</a></b></p>
+        <p>Key contributions:</p>
+        <ul class="job_list">
+            <li>Developed digital presence to reach the community support by making contributions to the <b>GitHub ecosystem</b>.</li>
+            <li>Technical communication with peers regarding ways to maximise potential for open sourcing <b>inclusion</b> and <b>diversity</b>.</li>
+        </ul>
+     </div>
+ </section>
+ <!-- Job 2 -->
+ <section class="job-item">
+    <div class="job-details">
+        <h3>SISTMR Australia</h3>
+        <p>(Society for Innovation in Scientific, Technological and Medical Research)</p>
+        <h4><i>Research Intern</i></h4>
+        <p>January 2022 – May 2022</p>
+    </div>
+    <div class="job-summary">
+        <p>Key contributions:</p>
+        <ul class="job_list">
+            <li>Demonstrated on brute force, sniffer tools, code analysis and <b>exploitation development</b> tasks.</li>
+            <li>Tested <b>vulnerabilities</b> in the network and website applications with <b>84%</b> accuracy using open source tools.</li>
+            <li>Examined the 4+ complex software applications operating on the <b>virtual machine</b>.</li>
+        </ul>
+     </div>
+ </section>
+ <!-- Job 3 -->
+ <section class="job-item">
+    <div class="job-details">
+        <h3>Microsoft</h3>
+        <p>(<a href="https://stlajay.github.io/assets/images/futuremicrosoft/FutureReady.png">Future Ready</a>: Cloud Computing, Machine Learning)</p>
+        <h4><i>Winter Intern</i></h4>
+        <p>September 2021 – December 2021</p>
+    </div>
+    <div class="job-summary">
+        <p>Top 1000+ <a href="https://1drv.ms/b/s!AjnDsL7q8UJebvVB5MCIljUCyLM?e=TbZxen">performer</a> in Microsoft Azure project development</p>
+        <p>Key contributions:</p>
+        <ul class="job_list">
+        <li>Utilized the <b>18+</b> laboratory <b>cloud computing</b> practise from the <a href="https://learn.microsoft.com/en-us/training/">Microsoft Learn</a> documentation.</li>
+        <li>Created the machine learning model for the offesive data using text analysis</li>
+        <li>Deployed the prototype on <a href="https://azure.microsoft.com/en-in/products/app-service/web/">Microsoft Azure</a> with <b>cloud storage</b> using the static-web app on a container.</li>
+        </ul>
+    </div>
+ </section>
+</div>
+</section>
+
+
+<!--------------------- MAIN Skills ---------------->
+<section class="skills" style="background-color:antiquewhite; border-radius: 0 100px 0 0;">
+  <div class="wrap-around content-wrap ">
+    <h1>SKILLS</h1>
+    <div class="skills-item">
+      <h3 class="skill-title"><strong>Programming</strong></h3> <hr title="90%" class="skill-tag hr1">
+      <p class="skill-text">C++, HTML/CSS, JavaScript, NodeJS, SQL, Git, bash, React</p>
+    </div>
+    <div class="skills-item">
+      <h3 class="skill-title"><strong>Cybersecurity</strong></h3> <hr title="70%" class="skill-tag hr2">
+      <p class="skill-text">Ethical Hacking, Python, Open Source tools, Research Analysis</p>
+    </div>
+    <div class="skills-item">
+      <h3><strong>Engineering</strong></h3> <hr title="80%" class="skill-tag hr3">
+      <p class="skill-text">Algorithms, Databases, Computer Systems, Cloud computing, Website Development</p>
+    </div>
+    <div class="skills-item">
+      <h3 class="skill-title"><strong>Leadership and Management</strong></h3> <hr title="85%" class="skill-tag hr4">
+      <p class="skill-text">Creative Problem-solving, Product Management, Time Management, Corporation</p>
+    </div>
+  </div>
+</section>
+
+
+<!--------------------- MAIN EDUCATION & CERTIFICATIONS ---------------->
+<section class="education" style="background-image: url(./assets/images/logo/pencil.jpg); background-size: cover; padding: 0; margin:0;">
+<div class="wrap-around item-details" style="font-family: Apercu;">
+  <h1>EDUCATION</h1>
+  <section class="education-wrap">
+    <h3>Shri Guru Gobind Singhji Institute of Engineering and Technology - <i>Nanded, IN</i></h3>
+      <p>Bachelors of Technology, Information Technology, 2018-2022</p>
+      <p><b>Coursework</b>: Algorithms, Databases, Computer Networking, Machine Learning, Cryptography</p>
+  </section>
+    
+  <h1>CERTIFICATION</h1>
+  <section class="education-wrap">
+        <h3>Blockchain</h3>
+         <i>University of Buffalo, 500 S. State Street, Ann Arbor, MI 48109 USA</i>
+        <p>Coursera: <a href="https://www.coursera.org/account/accomplishments/" target="_blank">Link</a>, 2020</p>
+    </section>
+    <section class="education-wrap">
+        <h3>Google IT Support Professional Certification</h3>
+         <i>Google, Mountain View, California.</i>
+        <p>Coursera: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/HY4J8BN8GV7J" target="_blank">Link</a>, 2020</p>
+    </section>
+  <section class="education-wrap">
+        <h3>Python for Everybody</h3>
+         <i>University of Michigan, 500 S. State Street, Ann Arbor, MI 48109 USA</i>
+        <p>Coursera: <a href="https://www.coursera.org/account/accomplishments/certificate/VHU6AJ3WUKQK" target="_blank">Link</a>, 2020</p>
+    </section>
+</div>
+</section>
+
+
+<!--------------------- MAIN ARCHIVES & BLOG ---------------->
+<section id="projects" style="width=100%; background-color: whitesmoke;">
+<div class="posts">
+  <div class="wrap-around">
+    <h2 class="post_title">
+      <span style="font-family: Apercu, Tahoma, cursive, sans-serif, -apple-system, Ubuntu, monospace;">SELECTED ARCHIVES</span>
+    </h2>
+
+    <div class="posts__container" data-columns>
+      {% assign sorted_projects = site.posts | sort: 'highlight' %}
+      {% for post in sorted_projects %}
+
+        <!-- The tag below includes the markup for each post - partials/post-card.html -->
+        {% include post-card.html %}
+
+      {% endfor %}
+    </div>
+    
+  </div>
+</div>
+</section>
+
+<!--------------------- Forward ---------------->
+<section id="waving" class="cta bg-black">
+  <a class="cta__link" style="background-color:palegreen;" href="{{ '/forward/' | prepend: site.baseurl }}">
+    <span class="cta__text">I'm On My Way</span>
+  </a>
+</section>
 
 </main>
