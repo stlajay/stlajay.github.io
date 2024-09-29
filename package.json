@@ -1,6 +1,6 @@
 {
     "name": "barber-jekyll",
-    "description": "Barber is a blog theme for Jekyll built by Thomas Vaeth at Samesies using HTML, Sass, and JavaScript.",
+    "description": "Barber is a blog theme for Jekyll using HTML, Sass, and JavaScript.",
     "demo": "http://stlajay.github.io",
     "version": "1.0.0",
     "scripts": {
@@ -16,9 +16,9 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/samesies/barber-jekyll.git"
+      "url": "https://github.com/stlajay/stlajay.github.io.git"
     },
-    "bugs": "https://github.com/samesies/barber-jekyll/issues",
+    "bugs": "https://github.com/stlajay/stlajay.github.io/issues",
     "keywords": [
       "barber",
       "jekyll",

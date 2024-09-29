@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vritual meet UMES"
+title:  "Virtual meet UMES"
 date:   2023-03-20
 categories: jekyll update
 image: assets/images/UMES/UMES.jpg
