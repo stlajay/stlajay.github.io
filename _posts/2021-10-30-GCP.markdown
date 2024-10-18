@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Google Cloud Challenge '21"
+date:   2021-10-30
+categories: jekyll update
+image: assets/images/gcp/gcp.png
+highlight: 10
+author: Ajay Deshmukh
+tags:
+  - Cloud Computing
+---
+
+`Google Cloud Platform`(GCP):
+Find out and know more about *cloud services* by solving **data**, **queries**, **architectural** problems on the [Cloud Challenge][clink].
+
+`Verify PROFILE` : [LINK][verify]
+
+<div class="section padding" align="center">
+  <img source type="image/png/jpg" src="{{ "assets/images/gcp/dev.png" | relative_url }}">
+</div>
+
+[clink]: https://events.withgoogle.com/30daysofgooglecloud/#content
+[verify]: https://www.cloudskillsboost.google/public_profiles/80135166-b949-4e47-b3e8-7c9b5befa6f4

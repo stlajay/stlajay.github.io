@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "National Hackathon"
+date:   2023-02-16
+categories: jekyll update
+image: assets/images/armyctf/armyctf.png
+highlight: 10
+author: Ajay Deshmukh
+tags:
+  - Ethical hacking
+--- 
+
+This is my first hackathon that I've fruitful opportunity to show my cybersecurity skills. Totally 8000+ students were participated (with [AADHAR][aadhar] details).
+
+**CHALLENGE FIRST** (`Level 1`) :
+In the timeline of two days, finding out **bugs** in the application or website.
+
+
+**CHALLENGE SECOND** (`Level 2`) :
+They were giving five days for this challenge, *secure coding* problem of **API** Gateway and running open source **security tools** in website.
+
+
+**CHALLENGE THIRD** (`Level 3`) :
+Finally, I was in the top **75+** qualified hackers. We were given *problem statement* of building open sourced and search engine with any **programming language** which shows results of malicious, virus based websites.
+
+`Verify HACKATHON`: [LINK][ctflink]
+
+<div class="section padding" align="center">
+  <img source type="image/png/jpg" src="{{ "assets/images/armyctf/ctfmail.png" | relative_url }}">
+</div>
+
+[ctflink]: https://1drv.ms/b/c/5e42f1eabeb0c339/ETnDsL7q8UIggF5sAAAAAAAB6o5ReFGIW2C2Eu3A4747lg?e=9JKCzu
+[aadhar]: https://uidai.gov.in/
