@@ -1,0 +1,56 @@
+//----------------------------------------------
+// Links
+//----------------------------------------------
+a {
+  text-decoration: none;
+}
+
+@mixin block-underline($height) {
+  position: relative;
+
+  font-weight: 700;
+
+  &:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: $z-9;
+
+    height: $height;
+    width: 0;
+
+    background-color: var(--white);
+    transition: width 400ms ease;
+  }
+}
+
+@mixin link-underline($height, $color) {
+  position: relative;
+
+  color: $color;
+  transition: all 400ms ease;
+
+  &:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: $z-9;
+
+    height: $height;
+    width: 0;
+
+    background-color: $color;
+    transition: width 400ms ease;
+  }
+
+  &:hover {
+
+    &:before {
+      left: 0;
+
+      width: 100%;
+    }
+  }
+}

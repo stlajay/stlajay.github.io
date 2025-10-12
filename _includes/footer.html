@@ -1,0 +1,19 @@
+<footer class="foot">
+  <span class="foot__copy"><b>&copy; 2025 {{ site:author | escape}}</b>
+    <ul class="foot__list">
+      <li><a class="footer__link" href="https://github.com/stlajay" target="_blank">GitHub</a></li>
+      <li><a class="footer__link" href="https://www.twitter.com/astklhiy" target="_blank">Twitter</a></li>
+    </ul>
+  </span>
+
+  <ul class="foot__list">
+    <span class="foot__copy">
+      <li style="color: darkred;"><b>Hello from Mumbai.</b></li>
+      <li>{{ site.time | date: '%B %Y'}}</li>
+    </span>
+  </ul>
+
+
+</footer>
+
+<script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>

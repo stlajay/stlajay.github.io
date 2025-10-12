@@ -1,0 +1,17 @@
+//----------------------------------------------
+@mixin nth-transition-delay($items: 12, $time: 0.2s) {
+  @for $i from 1 through $items {
+    &:nth-child(#{$i}) {
+      transition-delay: $time * $i;
+    }
+  }
+}
+
+//----------------------------------------------
+@mixin nth-animation-delay($items: 12, $time: 0.2s) {
+  @for $i from 1 through $items {
+    &:nth-child(#{$i}) {
+      animation-delay: $time * $i;
+    }
+  }
+}

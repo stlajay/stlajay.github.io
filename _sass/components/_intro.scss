@@ -1,0 +1,64 @@
+//--------------------------------------------
+// Grid
+//--------------------------------------------
+.grid {
+  @extend %auto-margin;
+
+  width: 100%;
+
+  max-width: $max-width--xl;
+
+  @media (min-width: $mq-med) {
+    width: 95%;
+  }
+
+  @media (min-width: $mq-xlarge) {
+    width: 80%;
+  }
+}
+
+.grid-small {
+  @extend %auto-margin;
+
+  width: 100%;
+  max-width: $max-width;
+
+  @media (min-width: $mq-med) {
+    width: 65%;
+  }
+
+  @media (min-width: $mq-xlarge) {
+    width: 50%;
+  }
+}
+
+
+
+.cont {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 22em;
+  margin-top: 3.5em;
+  padding: 4em 1em;
+  width: 100%;
+  height: 80vh;
+  margin-bottom: 5rem;
+  text-align: center;
+    h1 {
+      font-size: 80px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+
+    .cont {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        height: auto;
+        min-height: 240px;
+        height: 60vh;
+        padding: 15% 0;
+    }
+}
