@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "GitHub's All in"
+date:   2023-06-18 07:10:00 +0530
+description:
+image: assets/images/gitin/allin.png
+highlight: 2
+author: Ajay Deshmukh
+categories: jekyll update
+---
+On ***30th May 2023***, I'd become the `Alumini` of [**GitHub**][github]'**s** **All In Open Source**.
+
+
+{% highlight bash %}
+Name: Ajay Deshmukh
+School: SGGS College
+Favorite Quote: "In real open source, you have the right to control your own destiny."-Linus Torvalds
+{% endhighlight %}
+
+Check out that, I am listed on the graduation record of [All In Open Source][allin]: [**CLICK HERE**][allinrecord]
+
+
+<img source type="img/png" src="{{ "assets/images/gitin/ytallin.png" | relative_url }}"/>
+
+FUN FACT: I recieved my graduation from SRTM University and [ALLINOPENSOURCE.ORG][allinopensource] in the May'23
+
+
+CHECK OUT: All In Guide [HERE][allinguide]
+
+
+`Peace guys`,
+
+
+***HAPPY HACKING !!***
+
+[allin]: https://github.com/AllInOpenSource
+[allinrecord]: https://github.com/AllInOpenSource/All-In-For-Students-Graduation-2023
+[github]:   https://github.blog/open-source/social-impact/
+[allinopensource]: https://allinopensource.org
+[allinguide]: https://www.youtube.com/watch?v=x5sQVDTxXSQ
